@@ -19,6 +19,6 @@ springcloud
 * 启动成功：http://localhost:1113/consumer/data?param=welcome
 
 ### Feign流程图
-![](Feign流程.png)
+[![fFBHRx.png](https://z3.ax1x.com/2021/08/03/fFBHRx.png)](https://imgtu.com/i/fFBHRx)
 
 ### 仅供参考，如有错误，请手下留情。。
